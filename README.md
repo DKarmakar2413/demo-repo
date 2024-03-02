@@ -1,3 +1,3 @@
 #Demo
 
-first test of using git. Please god i must have a job.
+first test of using git. Nice to meet you.
